@@ -10,7 +10,7 @@ const TOKEN = 'TOKEN';
 const BOT_ID = 'BOT_ID';
 
 // YouTube-node
-const GOOGLE_API_KEY = 'AIzaSyD77fn_ptp9aAgpDUrD1hd3N2flk63FQrA';
+const GOOGLE_API_KEY = 'API_KEY';
 const YOUTUBE_BASE_URL = 'https://www.youtube.com/watch?v=';
 const MAX_RESULTS = 5;
 
